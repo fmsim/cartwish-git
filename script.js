@@ -1,1 +1,1 @@
-console.log("This is script.js file. This is new change.");
+console.log("This is script for main branch!!");
