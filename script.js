@@ -1,1 +1,3 @@
-console.log("This is script for home page!!");
+
+console.log("This is script for main branch!!");
+
